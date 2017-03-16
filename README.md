@@ -1,2 +1,2 @@
 # jenkins2-server
-Jenkins2 demo server utan extern VOLUME (/var/jenkins_home)
+Jenkins2 demo server without VOLUME (/var/jenkins_home)
